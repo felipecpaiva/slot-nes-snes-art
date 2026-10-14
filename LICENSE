@@ -1,0 +1,29 @@
+Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)
+
+The images in this repository (NES/ and SNES/) and index.json are licensed under
+CC BY-NC-SA 4.0, the licence ScreenScraper publishes its media under.
+
+Full legal text: https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode
+Summary:         https://creativecommons.org/licenses/by-nc-sa/4.0/
+
+You are free to share (copy and redistribute in any medium or format) and adapt (remix,
+transform and build upon) this material, under these terms:
+
+  Attribution    Give appropriate credit, provide a link to the licence, and indicate if changes
+                 were made.
+  NonCommercial  You may not use the material for commercial purposes.
+  ShareAlike     If you remix, transform or build upon the material, you must distribute your
+                 contributions under the same licence as the original.
+
+No additional restrictions: you may not apply legal terms or technological measures that legally
+restrict others from doing anything the licence permits.
+
+Attribution
+  Images: ScreenScraper, https://www.screenscraper.fr/ (CC BY-NC-SA 4.0).
+  Changes: label scans (support-texture) were reduced to 256-colour palettes (dithered) to keep
+  the set small; logos (wheel) were only losslessly re-compressed.
+  Game names and CRC32 checksums used to file the images: libretro-database,
+  https://github.com/libretro/libretro-database (CC BY-SA 4.0).
+
+The games, their names, logos and label artwork are trademarks and copyrights of their respective
+owners. This set is not affiliated with or endorsed by Nintendo or any publisher.
